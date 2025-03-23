@@ -30,20 +30,20 @@ export default function Technical() {
 				<SectionTitle
 					title="Technical"
 					preTitle="Hardskills"
-					subTitle="As a creative technologist, I craft intuitive digital experiences using a diverse set of tools and languages."
+					subTitle="As a business technologist, I develop strategic digital solutions leveraging modern technology and techniques."
 				/>
 				<section className={`${about.content} ${about.container}`}>
 					<div className={about.copy}>
 						<CopyBlock 
-							title="Polymath foundations"
+							title="BUSINESS CONSULTING AND COACHING"
 							icon={[ 'fat', 'chart-network' ]}
-							copy="With a strong foundation in both design and development, I bring a unique perspective to every project and am constantly learning and evolving to stay up-to-date with the latest industry trends."
+							copy="With a decade of startup experience, I bring a proven ability to evaluate current business structures, develop effective growth models, and implement AI-driven automation to deliver exponential output for my clients."
 							iconClass={about.icon}
 							containerClass={about.container}
 						/>
 						<BadgesBlock 
-							title="Software I love to work with" 
-							copy="With over 20 years of experience creating digital assets, I have a deep and intuitive understanding of how the interfaces of the best software products in the world are designed. This is just some of the software I have used over that time."
+							title="DESIGN AND CREATIVE DIRECTION" 
+							copy="From physical to digital, I have a keen eye for design and a passion for creating beautiful and functional products. I am proficient in Adobe Creative Suite, Figma, and other design tools."
 							list={software}
 							block="software" 
 							fullContainer="fullContainer"
@@ -52,7 +52,7 @@ export default function Technical() {
 							headerIcon={about.icon} 
 						/>
 						<BadgesBlock 
-							title="Technologies I love to build with" 
+							title="CODING AND TECHNICAL DEVELOPMENT" 
 							copy="I deeply enjoy solving problems through code. From the front end all the way to the back end and the APIs in-between. No project is too challenging for me."
 							list={tech} 
 							block="tech"

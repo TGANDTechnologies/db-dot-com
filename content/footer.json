@@ -1,50 +1,41 @@
 {
 	"acknowledgments": [
 		{ 
-			"person": "Jihad Hassan - Marketing Director",
-			"link": "",
-			"note": "Thank you for all the advice and feedback."
-		},
-		{ 
-			"person": "Colorpong - Artist",
-			"link": "ttps://www.youworkforthem.com/designer/536/colorpong?aff=1115",
-			"note": "Checkout their amazing vector illustrations."
-		},
-		{ 
-			"person": "Brittany Chiang - Software Engineer",
-			"link": "https://brittanychiang.com/",
-			"note": "A major inspiration to create an open source theme."
-		},
-		{ 
-			"person": "Vercel - Platform",
-			"link": "https://vercel.com/docs",
-			"note": "Host your own Next.js project for free!"
+			"person": "Scarsdale STEP Program",
+			"link": "https://www.STEP2Scarsdale.org",
+			"note": "Thank you for starting me on my personal journey."
 		}
 	],
 
 	"links": [
 		{ 
-			"person": "YWFT Creative Marketplace",
-			"link": "https://www.youworkforthem.com/?aff=1115",
-			"note": "Best in class creative assets."
+			"person": "TGAND Technologies LLS",
+			"link": "https://www.tgandtechnologies.com/",
+			"note": "Best in class creative, marketing and business growth services."
+		},
+		{ 
+			"person": "UBMe Events",
+			"link": "https://www.ubmeevents.com/",
+			"note": "Global event marketplace with event app for real-time communication."
+		},
+		{ 
+			"person": "UBMe Food",
+			"link": "https://www.ubmefood.com/",
+			"note": "North American food restaurant marketplace for takeout, delivery and curbside pickup."
 		}
 	],
 
 	"social": [
 		{
-			"url": "https://medium.com/@--andrewnelson",
-			"icon": "medium"
+			"url": "https://instagram.com/fleyoungbovise",
+			"icon": "instagram"
 		},
 		{
-			"url": "https://dev.to/andrewnelson",
-			"icon": "dev"
-		},
-		{
-			"url": "https://www.linkedin.com/in/--andrewnelson/",
+			"url": "https://www.linkedin.com/in/david-bougard/",
 			"icon": "linkedin"
 		},
 		{
-			"url": "https://github.com/atlamors",
+			"url": "https://github.com/tgandtechnologies",
 			"icon": "github"
 		}
 	]

@@ -1,6 +1,6 @@
 {
 	"intro": {
-		"start": "const Andrew = ( name, passion ) =>",
+		"start": "export ( name, info ) => {... ",
 		"end": "Hello, my name is",
 		"speed": 60,
 		"deletionSpeed": 80,
@@ -11,21 +11,21 @@
 	},
 
 	"header": {
-		"name": "Andrew Nelson.",
-		"usp": "I design and build meaningful experiences."
+		"name": "Hi, I'm David",
+		"usp": "I build next-level crypto and AI technology."
 	},
 
-	"paragraph": "I am a digital polymath — a constantly evolving digital creator driven by a passion for lifelong learning and the desire to leave a lasting impact.",
+	"paragraph": "I am a true growth hacker — a constantly evolving, platform agnostic digital professional capable of taking you to the next level.",
 
 	"buttons": {
 		"primary": {
 			"title": "Contact Me",
-			"url": "",
+			"url": "david@tgandtechnologies.com",
 			"leaveSite": false
 		},
 		"secondary": {
-			"title": "LinkedIn",
-			"url": "",
+			"title": "My Services",
+			"url": "tgandtechnologies.com",
 			"leaveSite": "true"
 		}
 	}

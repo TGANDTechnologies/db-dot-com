@@ -30,29 +30,29 @@ export default function About() {
 				<SectionTitle
 					title="About Me"
 					preTitle="Synopsis"
-					subTitle="With a diverse skill set that includes UX design, UI design, full stack development, operational architecture, systems design, photography, and branding, I am a well-rounded digital professional."
+					subTitle="I blend technical expertise in full-stack development, systems design, and operational architecture with business development skills to create and launch world-class products, enhanced by my versatility in UX/UI design, IPD, and branding for maximum market impact."
 				/>
 				<section className={about.content}>
 					<div className={about.image}>
-						<img src="/img/family-photo.jpg" alt="Nelson family photo"/>
+						<img src="/img/family-photo.jpg" alt="Bougard family photo"/>
 						{/* <Image src="/img/family-photo.jpg" width={600} height={800}/> */}
 					</div>
 					<div className={about.copy} >
 						<CopyBlock 
-							title="Softskills that pay the bills"
+							title="M.Eng. in Product Development"
 							containerClass={about.container}
 							iconClass={about.icon}
 							icon={[ 'fat', 'ear-listen' ]}
-							copy="In addition to my design and technical expertise—I also have strong leadership, time management, and multitasking skills—honed through my experience as a business owner / managing partner, husband, and father of two. Outside of work, I enjoy staying active through sports such as hockey and snowboarding. I am confident in my ability to bring passion and value to any project."
+							copy="In addition to my design and business expertise, I hold a Master’s degree in Engineering and am an expert in integrated product development. I bring strong leadership, time management, and multitasking skills—refined through my experience as a business owner and managing partner, husband, and father. In my free time, I enjoy music and traveling with my family, as well as playing basketball on weekends."
 						/>
 						<BadgesBlock 
-							title="Reasearch and planning" 
+							title="Developing for Business" 
 							containerClass={about.container}
 							list={methods} 
 							fullContainer="fullContainer"
 							block="methods" 
 							icon="fingerprint"
-							copy="One of my favorite aspects of creating is planning the architecture of a project. From Design Systems to Brand Strategy—I enjoy working with the many touch points of user experience."
+							copy="My sharp business acumen empowers me to identify market opportunities and drive strategic growth. I have a passion for stayong on top of trends in business and technology."
 							//invertedColor="invertedColor"
 							headerIcon={`${about.icon}`}
 						/>
