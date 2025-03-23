@@ -171,12 +171,12 @@ export default function Career() {
 					<article className={career.company}>
 						<div className={career.companyContent}>
 							<span className={career.companyHeader}>
-								<h3>Tech Enthusiast  & Tinker'er</h3>
+								<h3>Tech Enthusiast  & Tinkerer</h3>
 								<h4>Permanent Full-time</h4>
 								<h4>Jan 1998 - Present · 26 yrs 11 mos</h4>
 								<h5>Memphis, TN</h5>
 							</span>
-							<p>Got my first gaming console 'PSOne' and from the moment I learned to connect the AV wires to the TV, my love for all things Tech was born!</p>
+							<p>Got a PSOne as my first gaming console and from the moment I learned to connect the AV wires to the TV, my love for all things Tech was born!</p>
 						</div>
 						<div className={career.companyAlt}></div>
 					</article>
